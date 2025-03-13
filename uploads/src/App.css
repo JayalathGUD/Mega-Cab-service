@@ -1,0 +1,18 @@
+/* Apply to all elements on the page */
+* {
+  margin: 0; /* Reset margin to 0 for all elements to eliminate browser default spacing */
+  padding: 0; /* Optional: reset padding as well to remove default padding for consistency */
+  box-sizing: border-box; /* Ensures that padding and borders are included in element's total width and height */
+}
+
+/* Add any other global styling below (optional) */
+
+/* Example: Apply a consistent font-family across all elements */
+body {
+  font-family: 'Arial', sans-serif; /* Set a base font for the entire document */
+}
+
+/* Example: Set background color for the page */
+body {
+  background-color: #f4f4f4; /* Light gray background for the body */
+}
